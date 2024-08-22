@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <h2>Tech Stack</h2>
+ <h1 align="center">Tech Stack</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
