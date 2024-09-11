@@ -1,4 +1,4 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+![Hey there, I'm Shashikanth. I'm an undergrad student and tech enthusiast. Check out my work!](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; 
 [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; 
@@ -7,14 +7,12 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding, and building various projects with RaspberryPi's or Arduino. I'm slightly obsessed with Home Automation and Home Labs. 
+I'm Shashikanth, an undergrad student and tech enthusiast. I am passionate about coding, exploring new technologies, and building innovative projects. Always eager to learn and improve, I love working on projects that make a difference in tech!
 
-You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to reach out! You can also check out my work on GitHub.
 
 &nbsp;
 
-## 👇 &nbsp;Current project
+## 👇 &nbsp;Current Project
 
-I'm currently working on [@Tweetormator](https://twitter.com/tweetormator), a self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
-
-![Tweetormator](/assets/tweetormator.jpg)
+I'm currently working on various web development and AIML projects as I continue my journey in technology. Stay tuned for updates on these exciting projects!
