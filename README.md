@@ -46,24 +46,37 @@
 
 
 </div>
+<h1 align="center">Coding Profiles</h1>
+
+<div align="center">
+  <a href="https://leetcode.com/u/rpkumar09/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=plastic" height="40" alt="leetcode logo" />
+  </a>
+  <a href="https://www.codechef.com/users/praveen_0905" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=B94629&logoColor=white&labelColor=&style=plastic" height="40" alt="codechef logo" />
+  </a>
+  <a href="https://www.hackerrank.com/your_hackerrank_profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="40" alt="hackerrank logo" />
+  </a>
+</div>
 
 
 ###
-
+ <h1 align="center">Connect With Me</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/Cheguri-Shashikanth/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" alt="linkedin logo"  />
   </a>
   <a href="mailto:chegurishashikanth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic"  alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/your_instagram_profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic"  alt="instagram logo" />
   </a>
 </div>
 
-</div>
+
 
 ###
 
