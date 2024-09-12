@@ -9,13 +9,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Cheguri-Shashikanth/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" alt="linkedin logo" height="40" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" alt="linkedin logo" height="20" />
   </a>
   <a href="mailto:chegurishashikanth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" alt="gmail logo" height="40" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" alt="gmail logo" height="20" />
   </a>
   <a href="https://www.instagram.com/your_instagram_profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" alt="instagram logo" height="40" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" alt="instagram logo" height="20" />
   </a>
 </div>
 
