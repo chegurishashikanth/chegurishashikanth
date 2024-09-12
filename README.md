@@ -4,6 +4,22 @@
 
 ###
 
+ <h1 align="center">Connect With Me</h1>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/Cheguri-Shashikanth/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:chegurishashikanth@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic"  alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/your_instagram_profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic"  alt="instagram logo" />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <h1 align="center">Tech Stack</h1>
   <!-- Programming Languages -->
@@ -62,19 +78,7 @@
 
 
 ###
- <h1 align="center">Connect With Me</h1>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/Cheguri-Shashikanth/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:chegurishashikanth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic"  alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/your_instagram_profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic"  alt="instagram logo" />
-  </a>
-</div>
 
 
 
