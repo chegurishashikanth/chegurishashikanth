@@ -4,6 +4,41 @@
 
 ###
 
+<!-- Moving About Me Section -->
+<h2 align="center">About Me</h2>
+
+<div align="center">
+  <p>
+    <span class="moving-text">I am a passionate Computer Science student with a keen interest in web development, programming, and cloud technologies. I love building projects that make an impact!</span>
+  </p>
+</div>
+
+<!-- CSS for Moving Effect -->
+<style>
+  .moving-text {
+    display: inline-block;
+    font-size: 1.2rem;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+    animation: movingText 10s linear infinite;
+  }
+
+  @keyframes movingText {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+</style>
+
+###
+
+
+###
+
 <h1 align="center">Connect With Me</h1>
 
 <div align="center">
