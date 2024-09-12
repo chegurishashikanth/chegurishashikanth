@@ -35,8 +35,15 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
+ <h3> Cloud and Development Tools</h3>
+ <img alt="AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+ <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
- 
+ <h3> Others </h3>
+ <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+ <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+
+
 
 </div>
 
@@ -48,9 +55,14 @@
   <a href="https://www.linkedin.com/in/Cheguri-Shashikanth/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
   </a>
-  <a href="chegurishashikanth@gmail.com" target="chegurishashikanth@gmail.com">
+  <a href="mailto:chegurishashikanth@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://www.instagram.com/your_instagram_profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo" />
+  </a>
+</div>
+
 </div>
 
 ###
