@@ -67,13 +67,13 @@
 <h1 align="center">Coding Profiles</h1>
 
 <div align="center">
-  <a href="https://leetcode.com/u/rpkumar09/" target="_blank">
+  <a href="https://leetcode.com/u/shashi_kanth22/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=plastic" height="40" alt="leetcode logo" />
   </a>
-  <a href="https://www.codechef.com/users/praveen_0905" target="_blank">
+  <a href="https://www.codechef.com/users/shashi_kanth22" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=B94629&logoColor=white&labelColor=&style=plastic" height="40" alt="codechef logo" />
   </a>
-  <a href="https://www.hackerrank.com/your_hackerrank_profile" target="_blank">
+  <a href="https://www.hackerrank.com/shashi_kanth22" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="40" alt="hackerrank logo" />
   </a>
 </div>
